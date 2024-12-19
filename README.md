@@ -47,6 +47,7 @@ The Sprunki Mustard community represents a vibrant ecosystem of creators, buildi
 - Discover new sound combinations
 - Participate in community challenges
 - Access exclusive content updates
+- https://gamerelax.net
 
 ## Technical Excellence
 
@@ -75,5 +76,6 @@ The Sprunki Mustard platform continues to evolve, with regular updates enhancing
 ## Conclusion
 
 Sprunki Mustard stands as a testament to the evolution of music creation gaming. Whether you're a fan of the original Sprunki game or new to the Sprunki Incredibox series, Sprunki Mustard offers an unmatched creative experience. Its blend of accessibility and depth makes it a standout addition to the music gaming landscape.
+https://gamerelax.net
 
 *Note: Sprunki Mustard is regularly updated with new features and content, ensuring a fresh and engaging experience for all users.*
